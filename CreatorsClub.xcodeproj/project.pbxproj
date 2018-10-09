@@ -21,6 +21,7 @@
 		BD008A10216A26FE00AD6D40 /* GoogleService-Info-3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info-3.plist"; path = "../../../Downloads/GoogleService-Info-3.plist"; sourceTree = "<group>"; };
 		BD008A13216A293700AD6D40 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		BD008A15216A294500AD6D40 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		BD008A35216D1A8400AD6D40 /* GoogleService-Info-3.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-3.plist"; sourceTree = "<group>"; };
 		BD24ED83216924B900A83683 /* CreatorsClub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreatorsClub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD24ED86216924B900A83683 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD24ED88216924B900A83683 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 		BD24ED85216924B900A83683 /* CreatorsClub */ = {
 			isa = PBXGroup;
 			children = (
+				BD008A35216D1A8400AD6D40 /* GoogleService-Info-3.plist */,
 				BD008A12216A270E00AD6D40 /* Assets */,
 				BD008A0F216A26D700AD6D40 /* Service */,
 				BD008A0E216A26D200AD6D40 /* View */,
